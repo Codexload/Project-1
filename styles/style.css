@@ -15,7 +15,7 @@ nav{
 nav ul{
     display: flex;
     align-items: center;
-    margin-right: 100px;
+    margin-top: 40px;
 }
 
 li{
@@ -35,7 +35,8 @@ li{
 }
 .nam{
     font-size: 50px;
-    margin-left: 100px;
+    margin-left: 150px;
+    margin-top: 40px;
 }
 ul a{
     text-decoration: none;
@@ -43,4 +44,15 @@ ul a{
 }
 .wa{
     color: white;
+}
+.header{
+    background-color: rgba(255, 248, 243, 1);
+}
+.dev{
+    margin-left: 50px;
+    margin-top: 0px;
+    padding-bottom: 100px;
+}
+.my-pic{
+    position: relative;
 }
