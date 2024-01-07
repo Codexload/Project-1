@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.name{
+    color: rgba(253, 110, 10, 1);
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    margin-right: 100px;
+}
+
+li{
+    margin-right: 50px;
+    list-style: none;
+}
+
+.btn-primary{
+    border-radius: 5px;
+    background-color: rgba(253, 110, 10, 1);
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    height: 50px;
+    width: 100px;
+}
+.nam{
+    font-size: 50px;
+    margin-left: 100px;
+}
+ul a{
+    text-decoration: none;
+    color: rgb(48, 47, 47);
+}
+.wa{
+    color: white;
+}
